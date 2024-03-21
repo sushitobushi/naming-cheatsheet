@@ -1,1 +1,2 @@
 Changes for branch1 - Commit 1
+Changes for branch1 - Commit 2
